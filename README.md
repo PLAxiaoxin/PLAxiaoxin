@@ -2,7 +2,7 @@ Hi there! 👋🏻
 
 I'm ZhiXin Wu.
 
-I'm now living and working in Beijing, China.
+I'm now living and working in ShangHai, China.
 
 ```typescript
 type Skill = string
@@ -20,11 +20,7 @@ const AlexZhang: SimpleDeveloper & Human = {
     'Scss',
     'Vue2',
     'Vue3',
-    'Express',
     'Webpack',
-    'Vite2',
-    'Rollup',
-    'Photoshop',
     'others',
   ],
   age: 27,
@@ -32,6 +28,6 @@ const AlexZhang: SimpleDeveloper & Human = {
 }
 ```
 
-![stat](https://github-readme-stats.vercel.app/api?username=alexzhang1030)
-![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhang1030&layout=compact)
-![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif)
+![stat](https://github-readme-stats.vercel.app/api?username=PLAxiaoxin)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=PLAxiaoxin&layout=compact)
+![snake](https://raw.githubusercontent.com/PLAxiaoxin/PLAxiaoxin/main/assets/github-contribution-grid-snake.gif)

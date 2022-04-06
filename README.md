@@ -1,6 +1,6 @@
 Hi there! 👋🏻
 
-I'm Alex Zhang.
+I'm ZhiXin Wu.
 
 I'm now living and working in Beijing, China.
 
@@ -27,7 +27,7 @@ const AlexZhang: SimpleDeveloper & Human = {
     'Photoshop',
     'others',
   ],
-  age: 20,
+  age: 27,
   gender: 'Male',
 }
 ```

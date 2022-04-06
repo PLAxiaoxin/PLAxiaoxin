@@ -1,16 +1,37 @@
-### Hi there 👋
+Hi there! 👋🏻
 
-<!--
-**PLAxiaoxin/PLAxiaoxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex Zhang.
 
-Here are some ideas to get you started:
+I'm now living and working in Beijing, China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+type Skill = string
+interface SimpleDeveloper {
+  skills: Skill[]
+}
+interface Human {
+  age: number
+  gender: 'Male' | 'Female'
+}
+const AlexZhang: SimpleDeveloper & Human = {
+  skills: [
+    'JavaScript',
+    'TypeScript',
+    'Scss',
+    'Vue2',
+    'Vue3',
+    'Express',
+    'Webpack',
+    'Vite2',
+    'Rollup',
+    'Photoshop',
+    'others',
+  ],
+  age: 20,
+  gender: 'Male',
+}
+```
+
+![stat](https://github-readme-stats.vercel.app/api?username=alexzhang1030)
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhang1030&layout=compact)
+![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif)
